@@ -7,7 +7,7 @@ In an era where the pharmaceutical industry grapples with the persistent threat 
 
 # Data Acquisition:
 
-Our first step involved acquiring a comprehensive dataset, a treasure trove of information encompassing medicine details, area-specific data, and, crucially, counterfeit sales figures. The dataset, initially in CSV format, was meticulously uploaded and scrutinized. Each feature, from 'Counterfeit_Weight' to 'Medicine_MRP' and various categorical variables, played a pivotal role in shaping our predictive model.
+This first step involved acquiring a comprehensive dataset, a treasure trove of information encompassing medicine details, area-specific data, and, crucially, counterfeit sales figures. The dataset, initially in CSV format, was meticulously uploaded and scrutinized. Each feature, from 'Counterfeit_Weight' to 'Medicine_MRP' and various categorical variables, played a pivotal role in shaping our predictive model.
 
 # Data Exploration and Preprocessing:
 
@@ -23,7 +23,7 @@ Choosing a Linear Regression model for its simplicity and interpretability, we e
 
 # Challenges Faced and Innovative Solutions:
 
-Our path was not without hurdles. Missing data, outliers, and the pursuit of model robustness demanded innovative solutions. A weighted imputation strategy tackled missing data, while an IQR-based approach identified and addressed outliers.Also after solving all the problems there the main problem arised withn the accuracy of the model , which was further encountered with the help of Feature Engineering.
+The path was not without hurdles. Missing data, outliers, and the pursuit of model robustness demanded innovative solutions. A weighted imputation strategy tackled missing data, while an IQR-based approach identified and addressed outliers.Also after solving all the problems there the main problem arised withn the accuracy of the model , which was further encountered with the help of Feature Engineering.
 
 # Results and Evaluation:
 
