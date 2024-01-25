@@ -1,7 +1,7 @@
 
 # Title: A Comprehensive Guide to Predictive Modeling for Counterfeit Medicine Sales
 
-#Introduction:
+# Introduction:
 
 In an era where the pharmaceutical industry grapples with the persistent threat of counterfeit drugs, our journey embarks on a mission to contribute to the prevention and control of this critical issue. Leveraging the power of data science and machine learning, our project sets out to develop a predictive model that can forecast potential counterfeit medicine sales. 
 
